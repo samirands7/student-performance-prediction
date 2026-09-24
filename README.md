@@ -68,3 +68,26 @@ A Logistic Regression model was used to predict the student's result.
 ```text
 [[1 0]
  [0 1]]
+
+
+## 📁 Project Structure
+
+```text
+student-performance-prediction/
+│
+├── README.md
+├── Data_Science_Day_1.ipynb
+└── student_performance.csv
+
+
+Skills Demonstrated
+Python Programming
+Data Manipulation with Pandas
+Exploratory Data Analysis (EDA)
+Data Visualization
+Data Cleaning
+Statistical Analysis
+Machine Learning
+Classification
+Logistic Regression
+Model Evaluation
